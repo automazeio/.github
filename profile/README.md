@@ -1,17 +1,17 @@
 <br>
 
 <p align="center">
-    <img width="112" src="../img/icon.png" alt="Automaze Icon">
+    <img width="112" src="/img/icon.png" alt="Automaze Icon">
 </p>
 
 <br>
 
 <p align="center">
     <a href="https://automaze.io#gh-dark-mode-only" target="_blank">
-        <img width="240" src="../img/logo-on-dark.png" alt="Automaze Logo">
+        <img width="240" src="/img/logo-on-dark.png" alt="Automaze Logo">
     </a>
     <a href="https://automaze.io#gh-light-mode-only" target="_blank">
-        <img width="240" src="../img/logo-on-light.png" alt="Automaze Logo">
+        <img width="240" src="/img/logo-on-light.png" alt="Automaze Logo">
     </a>
 </p>
 
@@ -29,13 +29,13 @@
 </p> 
 
 <p align="center">
-	<a href="https://automaze.io"><img height="25" src="../img/social/website.svg" alt="Website"></a>
+	<a href="https://automaze.io"><img height="25" src="/img/social/website.svg" alt="Website"></a>
   &nbsp;
-   <a href="https://twitter.com/automazeio"><img height="25" src="../img/social/x.svg" alt="X/Twitter"></a>
+   <a href="https://twitter.com/automazeio"><img height="25" src="/img/social/x.svg" alt="X/Twitter"></a>
 	&nbsp;
-  <a href="https://www.linkedin.com/company/automazeio/"><img height="25" src="../img/social/linkedin.svg" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/company/automazeio/"><img height="25" src="/img/social/linkedin.svg" alt="LinkedIn"></a>
 	&nbsp;
-	<a href="https://github.com/automazeio"><img height="25" src="../img/social/github.svg" alt="Github	"></a>
+	<a href="https://github.com/automazeio"><img height="25" src="/img/social/github.svg" alt="Github	"></a>
 </p>
 
 
