@@ -21,7 +21,7 @@
   &nbsp;
   <a href="https://www.linkedin.com/company/automazeio/"><img src="https://img.shields.io/badge/linkedin-connect_with_us-0a66c2.svg?style=flat-square"></a>
   &nbsp;
-  <a href="https://automaze.io/schedule"><img src="https://img.shields.io/badge/hubspot-schedule_call-FF785A.svg?style=flat-square"></a>
+  <a href="https://automaze.io/schedule"><img src="https://img.shields.io/badge/start-schedule_call-FF785A.svg?style=flat-square"></a>
 </p> 
 
 <p align="center">
