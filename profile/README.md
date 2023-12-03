@@ -35,7 +35,7 @@
 	&nbsp;
   <a href="https://www.linkedin.com/company/automazeio/"><img height="25" src="/img/social/linkedin.svg" alt="LinkedIn"></a>
 	&nbsp;
-	<a href="https://github.com/automazeio"><img height="25" src="/img/social/github.svg" alt="Github	"></a>
+	<a href="https://github.com/automazeio"><img height="25" src="/img/social/github.svg" alt="Github"></a>
 </p>
 
 
@@ -43,4 +43,6 @@
 
 <p align="center">
 Automaze is made out of software, design, technology, DevOps, and product veterans who are passionate about building great products. We work with companies and entrepreneurs to turn their vision into a reality by helping them define, design, and build a PoC/MVP quickly — allowing them to get up and running quickly and focus on their core business.
-</div>
+	<br><br>
+	<a href="https://automaze.io/">Visit our website to book a discovery call today ›</a>
+</p>
