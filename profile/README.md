@@ -1,5 +1,3 @@
-<br>
-
 <p align="center">
     <img width="112" src="/img/icon.png" alt="Automaze Icon">
 </p>
