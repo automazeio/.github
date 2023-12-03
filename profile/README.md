@@ -2,8 +2,6 @@
     <img width="112" src="/img/icon.png" alt="Automaze Icon">
 </p>
 
-<br>
-
 <p align="center">
     <a href="https://automaze.io#gh-dark-mode-only" target="_blank">
         <img width="240" src="/img/logo-on-dark.png" alt="Automaze Logo">
