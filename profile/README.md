@@ -15,15 +15,7 @@
 
 <p align="center">Bring your idea to life and achieve product-market fit -<br> without giving away equity and at a fixed monthly fee.</h3>
 
-<p align="center"><br>
-  <!-- 
-  <a href="https://twitter.com/automazeio"><img src="https://img.shields.io/badge/twitter-follow_us-1d9bf0.svg?style=flat-square"></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/company/automazeio/"><img src="https://img.shields.io/badge/linkedin-connect_with_us-0a66c2.svg?style=flat-square"></a>
-  &nbsp;
-  <a href="https://automaze.io/schedule"><img src="https://img.shields.io/badge/start-schedule_call-FF785A.svg?style=flat-square"></a>
-  -->
-  
+<p align="center"><br>  
   <a href="https://automaze.io"><img height="25" src="/img/social/website.svg" alt="Website" title="Website"></a>
   &nbsp;
    <a href="https://twitter.com/automazeio"><img height="25" src="/img/social/x.svg" alt="X/Twitter" title="X/Twitter"></a>
