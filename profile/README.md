@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="112" src="/img/icon.png" alt="Automaze Icon">
+    <img width="112" src="/img/icon.png" alt="Automaze I alt="Automaze Icon">
 </p>
 
 <p align="center">
@@ -23,21 +23,16 @@
   &nbsp;
   <a href="https://automaze.io/schedule"><img src="https://img.shields.io/badge/start-schedule_call-FF785A.svg?style=flat-square"></a>
   -->
-  <a href="https://twitter.com/automazeio"><img src="https://img.shields.io/badge/twitter-follow_us-1d9bf0.svg?style=flat-square"></a>
+  
+  <a href="https://automaze.io"><img height="25" src="/img/social/website.svg" alt="Website" title="Website"></a>
   &nbsp;
-  <a href="https://www.linkedin.com/company/automazeio/"><img src="https://img.shields.io/badge/linkedin-connect_with_us-0a66c2.svg?style=flat-square"></a>
+   <a href="https://twitter.com/automazeio"><img height="25" src="/img/social/x.svg" alt="X/Twitter" title="X/Twitter"></a>
   &nbsp;
-  <a href="https://automaze.io/schedule"><img src="https://img.shields.io/badge/start-schedule_call-FF785A.svg?style=flat-square"></a>
-</p>
-
-<p align="center">
-  <a href="https://automaze.io"><img height="25" src="/img/social/website.svg" alt="Website"></a>
+  <a href="https://www.linkedin.com/company/automazeio/"><img height="25" src="/img/social/linkedin.svg" alt="LinkedIn" title="LinkedIn"></a>
   &nbsp;
-   <a href="https://twitter.com/automazeio"><img height="25" src="/img/social/x.svg" alt="X/Twitter"></a>
+  <a href="https://github.com/automazeio"><img height="25" src="/img/social/github.svg" alt="Github" title="Github"></a>
   &nbsp;
-  <a href="https://www.linkedin.com/company/automazeio/"><img height="25" src="/img/social/linkedin.svg" alt="LinkedIn"></a>
-  &nbsp;
-  <a href="https://github.com/automazeio"><img height="25" src="/img/social/github.svg" alt="Github"></a>
+  <a href="https://automaze.io/schedule"><img height="25" src="/img/social/calendar.svg" alt="Book a Call" title="Book a Call"></a>
 </p>
 
 ---
